@@ -1,0 +1,15 @@
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/bin/iPhoneSimulator/Debug/TestToolTips.iOS.exe
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/bin/iPhoneSimulator/Debug/TestToolTips.iOS.pdb
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/bin/iPhoneSimulator/Debug/TestToolTips.dll
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/bin/iPhoneSimulator/Debug/TestToolTips.pdb
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/TestToolTips.iOS.csprojAssemblyReference.cache
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/TestToolTips.iOS.csproj.CoreCompileInputs.cache
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/TestToolTips.iOS.csproj.CopyComplete
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/TestToolTips.iOS.exe
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/iOS/obj/iPhoneSimulator/Debug/TestToolTips.iOS.pdb

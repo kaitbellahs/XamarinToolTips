@@ -1,0 +1,6 @@
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/bin/Debug/TestToolTips.dll
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/bin/Debug/TestToolTips.pdb
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/obj/Debug/TestToolTips.csprojAssemblyReference.cache
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/obj/Debug/TestToolTips.csproj.CoreCompileInputs.cache
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/obj/Debug/TestToolTips.dll
+/Users/khalidaitbellahs/Dev/UHG/TestToolTips/TestToolTips/obj/Debug/TestToolTips.pdb
